@@ -12,7 +12,7 @@ through an interactive dashboard.
 ## Dataset
 - Public survey dataset
 - Approximately 600+ respondents
-- Raw data required cleaning and preparation before visualization
+- Raw data required cleaning and preparation before visualization 
 
 ---
 
